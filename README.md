@@ -1,0 +1,1 @@
+# jdk-javafx-maven-launch4j-nsis
